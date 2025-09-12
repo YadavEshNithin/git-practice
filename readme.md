@@ -7,6 +7,7 @@
 # Karam dosa
 - Dosa batter
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Erra Karam
 
 # Egg dosa
@@ -21,4 +22,4 @@
 - kaju curry
 - light Ghee, with light oil
 - curry not sure
-- Erra Karam
+
