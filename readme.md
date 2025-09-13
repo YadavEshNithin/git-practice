@@ -18,4 +18,4 @@
 - masala curry
 - garam masala
 - kaju curry
-
+- light Ghee, with light oil
