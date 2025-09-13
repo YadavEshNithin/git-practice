@@ -11,3 +11,8 @@
 # Egg dosa
 - Dosa batter
 - 1/2 Eggs, with karam
+
+# Panner dosa
+- Dosa batter
+
+
