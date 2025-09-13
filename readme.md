@@ -15,4 +15,5 @@
 # Ghee dosa
 - Dosa batter
 - light oil
+- masala
 
